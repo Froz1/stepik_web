@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+
+
 def application(environ, start_response):
     """Simplest possible application object"""
     # data = 'Hello, World!\n'

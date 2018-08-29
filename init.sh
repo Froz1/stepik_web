@@ -19,3 +19,6 @@ cd /home/box/web/ask
 #gunicorn -c /etc/gunicorn.d/django.py ask.wsgi:application &
 #gunicorn -b 0.0.0.0:8000 ask.wsgi:application &
 #sudo gunicorn ask.wsgi:application
+
+
+
